@@ -1,4 +1,4 @@
-# video series
-This is a video series on backend
+# project series
+youtube project on backend
 
 - [Model link]
